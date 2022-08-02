@@ -1,0 +1,135 @@
+.mainLeftContent h1 {
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-size: 100px;
+  margin-top: 160px;
+  padding-bottom: 0;
+}
+
+.mainLeftContent .mainLeftContentSub {
+  font-family: "Allerta";
+}
+
+.mainLeftButton button {
+  background-color: #466d50;
+  color: #ffffff;
+  margin: 50px 0 120px 0;
+  font-family: "Montserrat";
+  font-size: 25px;
+  width: 200px;
+  height: 60px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.mainLeftButton button img {
+  width: 10px;
+  margin-left: 10px;
+}
+
+.mainBottomLeftContainer {
+  position: relative;
+  width: 860px;
+  height: 20px;
+  display: flex;
+  flex-direction: row;
+  z-index: 2;
+  flex-wrap: wrap;
+  /* align-items: center; */
+}
+
+.mainBottomLeftContainer1 {
+  flex: 1;
+  vertical-align: middle;
+}
+
+.feeding {
+  display: inline-block;
+  width: 60px;
+}
+
+.feeding img {
+  width: 100%;
+  height: 50px;
+}
+
+.feedingContent {
+  display: inline-block;
+  width: 200px;
+  
+}
+
+.feedingContent h4 {
+  font-family: "Montserrat";
+}
+
+.feedingContent p {
+  font-family: "Allerta";
+  font-size: 12px;
+}
+
+.mainBottomLeftContainer2 {
+  flex: 1;
+  vertical-align: middle;
+}
+
+.light {
+  display: inline-block;
+  width: 60px;
+}
+
+.light img {
+  width: 100%;
+  height: 50px;
+}
+
+.lightContent {
+  display: inline-block;
+  width: 200px;
+}
+
+.lightContent h4 {
+  font-family: "Montserrat";
+}
+
+.lightContent p {
+  font-family: "Allerta";
+  font-size: 12px;
+}
+
+.mainBottomLeftContainer3 {
+  flex: 1;
+  vertical-align: middle;
+}
+
+.care {
+  display: inline-block;
+  width: 60px;
+}
+
+.care img {
+  width: 100%;
+  height: 50px;
+}
+
+.careContent {
+  display: inline-block;
+  width: 200px;
+}
+
+.careContent h4 {
+  font-family: "Montserrat";
+}
+
+.careContent p {
+  font-family: "Allerta";
+  font-size: 12px;
+}
+
+
+
+.mainRightContainer img {
+  position: absolute;
+  right: 0;
+  top: 150px;
+}
